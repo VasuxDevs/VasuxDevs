@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Vasu Arora
 
-<!--
-**VasuxDevs/VasuxDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CSE (Cyber Security) Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a third-semester Computer Science (Cyber Security) student who enjoys solving problems and is working towards a career in AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Bengaluru, India
+- 🎓 I'm studying at MSRIT
+- 🧩 I'm currently building problem-solving skills with DSA in C++
+- 🌐 I'm currently learning Computer Networking
+- 🧠 Up next: Development, DBMS, Operating Systems, and AI/ML Engineering
+- 💼 I'm looking for internship opportunities in AI/ML and software
+- 💬 Feel free to reach out for feedback, advice, or collaboration
+
+## Tech I Use
+![Tech](https://skillicons.dev/icons?i=cpp,git,github,linux,vscode)
+
+## Learning Next
+![Learning](https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,mysql,mongodb,numpy,pandas,sklearn,pytorch,tensorflow)
+
+## Socials
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vasu-arora-b66231389)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR-USERNAME)
