@@ -22,4 +22,4 @@ Also learning: NumPy, pandas, Matplotlib
 
 ## Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vasu-arora-b66231389)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/VasuxDevs)
